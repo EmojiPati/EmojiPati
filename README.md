@@ -35,7 +35,7 @@
 ---
 
 <!--START_SECTION:waka-->
-**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=EmojiPati.EmojiPati&left_color=black&right_color=black)**
+![](https://komarev.com/ghpvc/?username=EmojiPati&color=000000&style=for-the-badge&label=Total%20Visitors)
 
 ```text
 🌞 Morning    80 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.93% 
