@@ -5,18 +5,18 @@
 </h1>
 
 <p align="center">
-    <a href="https://emojipati.xyz/">
+    <a href="https://pati.is-a.dev/">
         <img src="https://i.imgur.com/HGK8ljH.png" />
     </a>
 <a href="https://twitter.com/"> <img width="30px" src="https://i.imgur.com/A03EcjB.png" title="Twitter"/></a>
 <a href="https://youtube.com/@EmojiPati"> <img width="30px" src="https://i.imgur.com/vBk8Y24.png" title="Youtube"/></a>
 <a href="https://t.me/"> <img width="30px" src="https://i.imgur.com/nhqMJuV.png" title="Telegram"/></a>
-<a href="https://emojipati.xyz/"> <img width="30px" src="https://i.imgur.com/a8wSMUw.png" title="WebSite"/></a>
+<a href="https://pati.is-a.dev/"> <img width="30px" src="https://i.imgur.com/a8wSMUw.png" title="WebSite"/></a>
 <a href="mailto: bestami355karakaya@gmail.com"> <img width="30px" src="https://i.imgur.com/HImN78P.png" title="Email"/> </a><br>
 </p>
 
-- 🌱 I am experienced in Discord.JS and I am currently learning REACT and Node.JS
-- 🏆 2023 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://emojipati.xyz/soon)
+- 🌱 I am experienced in React and Next.JS. Im Currently Learning Go.
+- 🏆 2024 Goals: Develop Insta Deploy Service Like Vercel.[Soon](https://pati.is-a.dev/soon)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/407130330710147073)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmojiPati)
@@ -52,17 +52,22 @@
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB)](https://nextjs.org/)
 [![Java](https://img.shields.io/badge/JAVA-FF6C37?style=for-the-badge&logo=Java&logoColor=white)](https://java.com)
 [![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
 
 ### OS and Cloud Services
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-[![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
-[![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://linode.com/)
+[![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://digitalocean.com/)
+
 
 ### Browsers and IDE
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
