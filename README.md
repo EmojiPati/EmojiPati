@@ -15,22 +15,14 @@
 <a href="mailto: bestami355karakaya@gmail.com"> <img width="30px" src="https://i.imgur.com/HImN78P.png" title="Email"/> </a><br>
 </p>
 
-- 🌱 I am experienced in React and Next.JS. Im Currently Learning Go.
-- 🏆 2024 Goals: Develop Insta Deploy Service Like Vercel.[Soon](https://pati.is-a.dev/soon)
+- 🌱 I am experienced in React, Next.js, Vue, Go and Postgresql. 
+- 🏆 2025 Goals: Improving Myself on Graphql and Type Script.
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/407130330710147073)
-
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmojiPati)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/emojipati)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Probro0110/)
-
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### 
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31jxyavqhi2wfgphdv4tlxu32lje)
+[![Discord Presence](https://lanyard.cnrad.dev/api/407130330710147073?borderRadius=20px&theme=dark&hideClan=true&hideBadges=true&hideActivity=true&idleMessage=)](https://discord.com/users/407130330710147073)
 
 ---
 
@@ -50,30 +42,27 @@
 
 ### Frameworks and Languages
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![PNPM](https://img.shields.io/badge/pnpm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://pnpm.io)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=Next.js&logoColor=61DAFB)](https://nextjs.org/)
 [![Java](https://img.shields.io/badge/JAVA-FF6C37?style=for-the-badge&logo=Java&logoColor=white)](https://java.com)
-[![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
+[![Go](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
+
 
 ### OS and Cloud Services
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)](https://www.alpinelinux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)](https://linode.com/)
-[![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://digitalocean.com/)
+[![Digital Ocean](https://img.shields.io/badge/Vultr-0080FF?style=for-the-badge&logo=Vultr&logoColor=white)](https://vultr.com/)
 
 
-### Browsers and IDE
-[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
+### Other Stuff
+[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-1F1F1F?style=for-the-badge&logo=zen-browser&logoColor=white)](https://zen-browser.app/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
+[![Neovim](https://img.shields.io/badge/Neovim-00B952?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=EmojiPati&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
